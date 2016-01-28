@@ -2,9 +2,10 @@
 
 In this repo we will give some examples on how to do obstacle avoidance with a tank robot
 
-**It’s still a work in progress and we will add more programs…**
+*Itâ€™s still a work in progress and we will add more programsâ€¦*
 
-*Simple obstacle avoidance*
+**Simple obstacle avoidance**
+
 Using a fixed ultrasonic sensor to navigate true the obstacles with a simple algorithm. 
  
 ![TankBot](/Images/simple_program.JPG)
