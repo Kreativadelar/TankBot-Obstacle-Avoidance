@@ -10,7 +10,7 @@ Using a fixed ultrasonic sensor and a simple algorithm to navigate throw the obs
  
 ![TankBot](/Images/simple_program.JPG)
 
-###[Demonstration video simple program](http://www.youtube.com)###
+###[Demonstration video simple program](https://youtu.be/TD4SB8GpvO8)###
 
 ####[Demonstration from Kreativadelar.se](http://www.kreativadelar.se)####
 
