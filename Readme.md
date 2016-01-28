@@ -6,7 +6,7 @@ In this repo we will give some examples on how to do obstacle avoidance with a t
 
 **Simple obstacle avoidance**
 
-Using a fixed ultrasonic sensor to navigate throw the obstacles with a simple algorithm. 
+Using a fixed ultrasonic sensor and a simple algorithm to navigate throw the obstacles. 
  
 ![TankBot](/Images/simple_program.JPG)
 
