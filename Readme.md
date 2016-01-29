@@ -11,6 +11,8 @@ Using a fixed ultrasonic sensor and a simple algorithm to navigate throw the obs
 ![TankBot](/Images/simple_program.JPG)
 ####[Demonstration video simple program](https://youtu.be/TD4SB8GpvO8)####
 
+**Simple obstacle avoidance with sensor mounted on servo**
+
 When using a ultrasonic mounted on a servo it's easier to make a good algorithm
 
 ![TankBot](/Images/servo.JPG)
